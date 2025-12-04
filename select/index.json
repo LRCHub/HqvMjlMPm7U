@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ゆれる feat. 田我流",
+  "base_artist": "EVISBEATS",
+  "createdAt": "2025-12-04T07:00:53.103247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゆれる",
+      "artist": "AOA",
+      "has_synced": false,
+      "path": "select/01_ゆれる_AOA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゆれる",
+      "artist": "東山奈央",
+      "has_synced": true,
+      "path": "select/02_ゆれる_東山奈央.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゆれる",
+      "artist": "EVISBEATS",
+      "has_synced": true,
+      "path": "select/03_ゆれる_EVISBEATS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゆれる",
+      "artist": "EVISBEATS feat. 田我流",
+      "has_synced": true,
+      "path": "select/04_ゆれる_EVISBEATS_feat._田我流.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゆれる",
+      "artist": "Nao Toyama",
+      "has_synced": true,
+      "path": "select/05_ゆれる_Nao_Toyama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゆれる Feat. 田我流",
+      "artist": "EVISBEATS",
+      "has_synced": true,
+      "path": "select/06_ゆれる_Feat._田我流_EVISBEATS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゆれる - Yureru",
+      "artist": "AOA",
+      "has_synced": false,
+      "path": "select/07_ゆれる_-_Yureru_AOA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆれる",
+      "artist": "EVISBEATS, 田我流",
+      "has_synced": false,
+      "path": "select/pl_01_ゆれる_EVISBEATS,_田我流.txt"
+    }
+  ]
+}
